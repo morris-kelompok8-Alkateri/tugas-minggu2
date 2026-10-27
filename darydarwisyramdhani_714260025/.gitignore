@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*$py.class
+
+# Vim swap files
+*.swp
+
+# Lingkungan Virtual & IDE
+.vscode/
+.idea/
+
+# Berkas Environment / Rahasia
+.env
+.venv/
+env/
+venv/
